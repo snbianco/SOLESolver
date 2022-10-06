@@ -1,2 +1,2 @@
 # SOLESolver
-A command-line tool that solves systems of linear equations.
+A command-line tool that solves a system of linear equations.
